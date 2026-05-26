@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenptringify",
+        "uuid": 3714174,
+        "checksum": "3v7qnc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
